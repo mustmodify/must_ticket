@@ -1,3 +1,3 @@
-Ticket.ApplicationRoute = Ember.Route.extend({
+MustTicket.ApplicationRoute = Ember.Route.extend({
 
 });

@@ -1,3 +1,3 @@
-Ticket.ApplicationController = Ember.Controller.extend({
+MustTicket.ApplicationController = Ember.Controller.extend({
 
 });

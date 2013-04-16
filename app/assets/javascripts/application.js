@@ -17,6 +17,6 @@
 //= require ember
 //= require ember-data
 //= require_self
-//= require ticket
-Ticket = Ember.Application.create();
+//= require must_ticket
+MustTicket = Ember.Application.create();
 //= require_tree .

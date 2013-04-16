@@ -1,2 +1,2 @@
-Ticket.ApplicationView = Ember.View.extend({
+MustTicket.ApplicationView = Ember.View.extend({
 });

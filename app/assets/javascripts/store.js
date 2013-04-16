@@ -1,3 +1,3 @@
-Ticket.Store = DS.Store.extend({
+MustTicket.Store = DS.Store.extend({
   revision: 11
 });

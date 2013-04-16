@@ -1,3 +1,3 @@
-Ticket.Router.map(function() {
+MustTicket.Router.map(function() {
 
 });
